@@ -457,5 +457,3 @@ Enable debug logging in `contexts/BleContext.tsx`:
 ```typescript
 const DEBUG = true; // Set to true for verbose logging
 ```
-#   M e s h V a u l t  
- 
